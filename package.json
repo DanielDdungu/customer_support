@@ -1,0 +1,11 @@
+{
+  "name": "customer_support",
+  "version": "1.0.0",
+  "description": "Customer support ticket application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "\"Daniel Ddungu\"",
+  "license": "ISC"
+}
